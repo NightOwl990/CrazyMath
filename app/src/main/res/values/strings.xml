@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CrazyMath</string>
+    <string name="txt_try_it_bro">Try it! Bro :)\n🙂😀😄😆😅</string>
+    <string name="txt_score_0">Score: 0</string>
+    <string name="txt_best_17">Best: 17</string>
+    <string name="txt_10">10</string>
+    <string name="txt_3_5">3+5=?</string>
+    <string name="txt_8">8</string>
+    <string name="txt_6">6</string>
+    <string name="txt_2">2</string>
+    <string name="txt_are_you_ready">Are you ready?</string>
+    <string name="txt_ok">Let\'s play</string>
+    <string name="txt_lose">You lose ☹️</string>
+    <string name="txt_play_again">Play again</string>
+</resources>
